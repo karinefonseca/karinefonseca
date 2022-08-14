@@ -3,7 +3,7 @@ Sou pesquisadora, pela iTec/FURG - unidade EMBRAPII, na Área de Processamento d
 
 Este portfólio está focado principalmente em:
 
-- Ciência de Dados;
+- Análise e Ciência de Dados;
 - Machine Learning e;
 - Android.
 
