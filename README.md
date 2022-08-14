@@ -3,9 +3,8 @@ Sou pesquisadora, pela iTec/FURG - unidade EMBRAPII, na Área de Processamento d
 
 Este portfólio está focado principalmente em:
 
-- Análise e Ciência de Dados;
-- Machine Learning e;
-- Android.
+- Análise e Ciência de Dados e;
+- Machine Learning
 
 Contatos: https://www.linkedin.com/in/karine-fonseca/ ou eng.karinefonseca@gmail.com
 
