@@ -1,5 +1,4 @@
-Olá! Me chamo Karine de Oliveira Fonseca, sou Engenheira de Computação formada pela Universidade Federal do Rio Grande/FURG e tenho especialização em Desenvolvimento de Aplicações para Dispositivos Móveis pela UNISINOS. 
-Sou pesquisadora, pela iTec/FURG - unidade EMBRAPII, na Área de Processamento de Linguagem Natural (subárea da Inteligência Artificial) e atualmente trabalho na área de EaD.
+Olá! Me chamo Karine de Oliveira Fonseca, sou Engenheira de Computação formada FURG e atualmente Mestranda também em Engenharia de Computação pela FURG. Já atuei na Área de Processamento de Linguagem Natural (subárea da Inteligência Artificial).
 
 Este portfólio está focado principalmente em:
 
